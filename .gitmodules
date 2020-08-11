@@ -1,0 +1,3 @@
+[submodule "task-manager"]
+	path = task-manager
+	url = https://github.com/ziceberg/task-manager
